@@ -1,0 +1,2 @@
+Find the average weight of medal-winning Judo players of each team with a minimum age of 20 and a maximum age of 30. Consider players at the age of 20 and 30 too. 
+Output the team along with the average player weight.

@@ -1,0 +1,2 @@
+Find the number of rows for each review score earned by 'Hotel Arena'. 
+Output the hotel name (which should be 'Hotel Arena'), review score along with the corresponding number of rows with that score for the specified hotel.
