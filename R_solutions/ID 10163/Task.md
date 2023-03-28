@@ -1,0 +1,2 @@
+Find the number of transactions that occurred for each product. Output the product name along with the corresponding number of transactions and order records by the product id in ascending order. 
+You can ignore products without transactions.
