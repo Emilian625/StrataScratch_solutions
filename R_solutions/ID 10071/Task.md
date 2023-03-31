@@ -1,0 +1,1 @@
+Find the number of hosts that have accommodations in countries of which they are not citizens.

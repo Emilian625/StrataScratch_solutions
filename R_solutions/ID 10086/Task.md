@@ -1,0 +1,1 @@
+Find all records from days when the number of distinct users receiving emails was greater than the number of distinct users sending emails

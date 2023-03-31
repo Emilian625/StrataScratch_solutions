@@ -1,0 +1,1 @@
+Find the total number of searches for houses in Westlake neighborhood with a TV among the amenities.

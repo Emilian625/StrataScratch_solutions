@@ -1,0 +1,1 @@
+What is the total sales revenue of Samantha and Lisa?
