@@ -1,0 +1,1 @@
+Find the highest salary among salaries that appears only once.

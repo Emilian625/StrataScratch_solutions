@@ -1,0 +1,1 @@
+Find the number of posts which were reacted to with a like.

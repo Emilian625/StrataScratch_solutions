@@ -1,0 +1,2 @@
+From users who had their first session as a viewer, how many streamer sessions have they had? Return the user id and number of sessions in descending order. 
+In case there are users with the same number of sessions, order them by ascending user id.

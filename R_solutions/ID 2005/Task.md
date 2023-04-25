@@ -1,0 +1,2 @@
+Output share of US users that are active.
+ Active users are the ones with an "open" status in the table.

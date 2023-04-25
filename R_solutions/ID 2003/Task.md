@@ -1,0 +1,2 @@
+Write a query that joins this submissions table to the loans table and returns the total loan balance on each user’s most recent ‘Refinance’ submission. 
+Return all users and the balance for each of them.

@@ -1,0 +1,1 @@
+Find the advertising channel with the smallest maximum yearly spending that still brings in more than 1500 customers each year.

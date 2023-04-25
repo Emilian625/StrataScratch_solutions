@@ -1,0 +1,2 @@
+Write a query that will return all cities with more customers than the average number of  customers of all cities that have at least one customer. 
+For each such city, return the country name,  the city name, and the number of customers

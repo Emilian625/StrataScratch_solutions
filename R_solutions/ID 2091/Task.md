@@ -1,0 +1,1 @@
+For each video game player, find the latest date when they logged in.

@@ -1,0 +1,1 @@
+Find records with the value '?' in the stars column.

@@ -1,0 +1,1 @@
+Summarize the number of customers and transactions for each month in 2017, filtering out transactions that were greater or equal than $5.

@@ -1,0 +1,1 @@
+Write a query that returns the company (customer id column) with highest number of users that use desktop only.
