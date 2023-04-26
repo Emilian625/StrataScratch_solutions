@@ -1,0 +1,2 @@
+The VP of Sales feels that some product categories don't sell and can be completely removed from the inventory. 
+As a first pass analysis, they want you to find what percentage of product categories have never been sold.

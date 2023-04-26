@@ -1,0 +1,3 @@
+Write a query that returns every employee that has ever worked for the company. For each employee, calculate the greatest number of employees that worked for the company during their tenure and the first date that number was reached. The termination date of an employee should not be counted as a working day.
+
+Your output should have the employee ID, greatest number of employees that worked for the company during the employee's tenure, and first date that number was reached.

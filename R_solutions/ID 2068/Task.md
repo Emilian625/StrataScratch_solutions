@@ -1,0 +1,1 @@
+Find product ids whose average sales price is at least $3 and that are sold at least 2 times? Output product id and their brand.

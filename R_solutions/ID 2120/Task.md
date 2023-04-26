@@ -1,0 +1,2 @@
+What percentage of transactions happened on first and last day of the promotion. Segment results per promotion. 
+Output promotion id, percentage of transactions on the first day and percentage of transactions on the last day.

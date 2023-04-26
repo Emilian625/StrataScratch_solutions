@@ -1,0 +1,1 @@
+Find the number of account registrations according to the signup date. Output the months and their corresponding number of registrations.
